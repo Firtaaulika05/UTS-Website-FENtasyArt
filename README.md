@@ -141,6 +141,6 @@ File script.js mengontrol semua interaksi pengguna dan manipulasi konten dinamis
 ## 👤 Pengembang
 
 Proyek ini disusun dan dikembangkan oleh 
-* Firta Aulika - [24091397056] 
-* Muhammad Nadhiful Asyror - [24091397121] 
-* Angelica Immanuela Nazarina - [24091397124].
+* Firta Aulika - [24091397029] 
+* Muhammad Nadhiful Asyror - [24091397044] 
+* Angelica Immanuela Nazarina - [24091397050].
