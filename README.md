@@ -44,20 +44,11 @@ Proyek ini dibangun dengan fokus pada **pengalaman pengguna yang intuitif**, **d
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+## 🚀 Cara Mengakses dan Menjalankan Proyek
 
-1. **Clone repositori ini:**
-   ```bash
-   git clone https://github.com/nama-user-kamu/fentasyart-project.git
-    
+Kunjungi hasil deploy proyek secara langsung melalui GitHub Pages di tautan berikut:
 
-2.  *Masuk ke direktori proyek:*
-
-    sh
-    cd fentasyart-project
-    
-
-3.  **Buka file index.html di browser favorit Anda.**
+**https://firtaaulika05.github.io/UTS-Website-FENtasyArt/**
 
 ## 🔍 Penjelasan Kode Lengkap
 
